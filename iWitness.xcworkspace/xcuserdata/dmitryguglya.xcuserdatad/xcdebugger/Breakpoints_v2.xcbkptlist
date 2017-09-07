@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iWitness/VideosListViewController.swift"
+            timestampString = "524690357.177014"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "293"
+            endingLineNumber = "293"
+            landmarkName = "reloadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iWitness.VideosListViewController.(reloadData () -&gt; ()).(closure #2)"
+                  moduleName = "iWitness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitryguglya/Source/RampGroup-iOS/iWitness/VideosListViewController.swift"
+                  timestampString = "522869784.295409"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iWitness.VideosListViewController.(reloadData () -&gt; ()).(closure #2).(closure #1)"
+                  moduleName = "iWitness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitryguglya/Source/RampGroup-iOS/iWitness/VideosListViewController.swift"
+                  timestampString = "522869784.297741"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "298"
+                  endingLineNumber = "298"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
